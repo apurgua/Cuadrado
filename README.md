@@ -36,5 +36,9 @@ Casos de Prueba
 
     Los tests verifican:
 
+    1. La primera funcionalidad que se desarrolla es el calculo del area de un cuadrado
 
-
+    Se crean con los comandos NestJs:
+        nest generate module area
+        nest generate service area
+        nest generate controller area
